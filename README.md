@@ -3,9 +3,9 @@ A simple Content Management System Where Users can log in and post content and v
 
 #User Guide to Run the application
 
-Step 1:Download the file in local environment.
+Step 1: Download the file in local environment.
 
-Step 2:Install backend dependencies
+Step 2: Install backend dependencies
 ```javascript
 npm install
 ```
